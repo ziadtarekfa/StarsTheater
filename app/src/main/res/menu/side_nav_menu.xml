@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:title="Account"
+        android:icon="@drawable/ic_account" />
+    <item
+        android:title="Settings"
+        android:icon="@drawable/ic_setting" />
+    <item
+        android:title="About"
+        android:icon="@drawable/ic_info_circle"/>
+    <item
+        android:id="@+id/side_nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+
+</menu>

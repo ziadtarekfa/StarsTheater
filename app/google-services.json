@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336213457385",
+    "project_id": "stars-theater-2cf5e",
+    "storage_bucket": "stars-theater-2cf5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336213457385:android:aeab013a0cf88b14827378",
+        "android_client_info": {
+          "package_name": "com.example.starstheater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336213457385-vhrih77rl6uvmjcpb6fl1ipurbdkngub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFA8m51qLV1Z39TU6FHL8VFOHyJLkJnLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336213457385-vhrih77rl6uvmjcpb6fl1ipurbdkngub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
