@@ -1,6 +1,6 @@
 # Stars Theater Android Application
 Welcome to the Cinema Ticket Booking Android Application! This app is designed to provide you with a seamless and convenient way to purchase 
-cinema tickets and browse movies currently showing in theaters.
+cinema tickets and browse movies currently on show.
 Whether you're a movie enthusiast or just looking for a fun night out, this app has you covered.
 
 ## Features
@@ -14,7 +14,7 @@ Whether you're a movie enthusiast or just looking for a fun night out, this app 
    - Access up-to-date showtimes for all movies.
      
 3. User Account
- -  Keep track of your booking history and upcoming movie tickets.
+   - Keep track of your booking history and upcoming movie tickets.
 
 ## Tech Stack
 This Android application is built using Java and utilizes various libraries and technologies, including:
@@ -27,7 +27,7 @@ This Android application is built using Java and utilizes various libraries and 
  ![Homepage](/screenshots/HomePage.PNG)
  ![Movie](/screenshots/Movie.PNG)
 
-2. Select showtimes and seats
+2. Select showtime and seats
    
  ![Reservation](/screenshots/Reservation.PNG)
 
